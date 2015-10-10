@@ -36,15 +36,6 @@ The datasource of the grid is the URL of a WebAPI to access the items to display
   </a>
 </p>
 
-<p> Delete item </p>
-<p>
-  <a href="https://raw.githubusercontent.com/softwarejc/angularjs-crudgrid/master/Items.Web/screenshots/Screenshot_delete_confirmation.png">
-    <img 
-      title="Screenshot_delete_confirmation" alt="Screenshot_delete_confirmation" 
-      src="https://raw.githubusercontent.com/softwarejc/angularjs-crudgrid/master/Items.Web/screenshots/Screenshot_delete_confirmation.png">
-  </a>
-</p>
-
 You can find more details at:
 <a href="http://softwarejuancarlos.com">http://softwarejuancarlos.com <a/>
 
