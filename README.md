@@ -16,7 +16,7 @@ The datasource of the grid is the URL of a WebAPI to access the items to display
 <li>Single page application: Everything is done with out refreshing the page.</li>
 </ul>
 
-<b>Screenshots:</b>
+<b>Screenshots</b>
 
 <p> Crud Grid </p>
 <p>
